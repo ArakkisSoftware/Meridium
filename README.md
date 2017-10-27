@@ -1,0 +1,2 @@
+# Meridium
+Arakkis Stock Analyzer
